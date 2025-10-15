@@ -1,9 +1,5 @@
 # wav-files-trim
 
-[![Crates.io](https://img.shields.io/crates/v/wav-files-trim.svg)](https://crates.io/crates/wav-files-trim)
-[![Documentation](https://docs.rs/wav-files-trim/badge.svg)](https://docs.rs/wav-files-trim)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 A command-line tool for recursively trimming silence from the beginning and end of WAV audio files. Designed for preprocessing speech audio to enhance separation and chunking by removing dead air. Supports mono 16-bit PCM WAV files at 16kHz sample rate.
 
 Part of the [RustedBytes](https://github.com/RustedBytes) organization.
